@@ -1,0 +1,276 @@
+
+=========================
+legger ut 20 meter med ankertau
+=========================
+Putter ut 10 meter med tau til daumann
+=====
+Dausynk: 0.01 m
+Vindkraft på båten: g * 3247.59 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:2.00
+Båtens avstand fra ankerpunkt: 17.32 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.10 m
+Vindkraft på båten: g * 324.70 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:2.04
+Båtens avstand fra ankerpunkt: 17.32 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 2.50 m
+Vindkraft på båten: g * 11.42 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:4.00
+Båtens avstand fra ankerpunkt: 16.30 meter
+Delta avstand: 1.02 meter
+=====
+Dausynk: 4.99 m
+Vindkraft på båten: g * 0.45 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:1000.00
+Båtens avstand fra ankerpunkt: 10.45 meter
+Delta avstand: 6.87 meter
+
+Putter ut 19 meter med tau til daumann
+=====
+Dausynk: 0.01 m
+Vindkraft på båten: g * 622.84 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:2.04
+Båtens avstand fra ankerpunkt: 17.32 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.10 m
+Vindkraft på båten: g * 67.09 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:2.50
+Båtens avstand fra ankerpunkt: 17.31 meter
+Delta avstand: 0.01 meter
+=====
+Dausynk: 0.25 m
+Vindkraft på båten: g * 29.44 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:4.00
+Båtens avstand fra ankerpunkt: 17.28 meter
+Delta avstand: 0.04 meter
+=====
+Dausynk: 0.49 m
+Vindkraft på båten: g * 16.44 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:100.00
+Båtens avstand fra ankerpunkt: 17.16 meter
+Delta avstand: 0.16 meter
+
+
+=========================
+legger ut 25 meter med ankertau
+=========================
+Putter ut 12 meter med tau til daumann
+=====
+Dausynk: 0.01 m
+Vindkraft på båten: g * 4811.70 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:2.51
+Båtens avstand fra ankerpunkt: 22.91 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.10 m
+Vindkraft på båten: g * 481.13 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:2.55
+Båtens avstand fra ankerpunkt: 22.91 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 2.50 m
+Vindkraft på båten: g * 18.32 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:5.00
+Båtens avstand fra ankerpunkt: 22.25 meter
+Delta avstand: 0.67 meter
+=====
+Dausynk: 4.99 m
+Vindkraft på båten: g * 7.53 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:1250.00
+Båtens avstand fra ankerpunkt: 20.01 meter
+Delta avstand: 2.90 meter
+
+Putter ut 24 meter med tau til daumann
+=====
+Dausynk: 0.01 m
+Vindkraft på båten: g * 744.09 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:2.56
+Båtens avstand fra ankerpunkt: 22.91 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.10 m
+Vindkraft på båten: g * 78.51 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:3.33
+Båtens avstand fra ankerpunkt: 22.91 meter
+Delta avstand: 0.01 meter
+=====
+Dausynk: 0.20 m
+Vindkraft på båten: g * 41.12 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:5.00
+Båtens avstand fra ankerpunkt: 22.89 meter
+Delta avstand: 0.03 meter
+=====
+Dausynk: 0.39 m
+Vindkraft på båten: g * 22.33 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:100.00
+Båtens avstand fra ankerpunkt: 22.82 meter
+Delta avstand: 0.09 meter
+
+
+=========================
+legger ut 30 meter med ankertau
+=========================
+Putter ut 1 meter med tau til daumann
+=====
+Dausynk: 0.01 m
+Vindkraft på båten: g * 805.67 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:3.00
+Båtens avstand fra ankerpunkt: 28.28 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.10 m
+Vindkraft på båten: g * 76.12 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:3.03
+Båtens avstand fra ankerpunkt: 28.28 meter
+Delta avstand: 0.01 meter
+=====
+Dausynk: 0.33 m
+Vindkraft på båten: g * 18.03 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:3.11
+Båtens avstand fra ankerpunkt: 28.20 meter
+Delta avstand: 0.08 meter
+=====
+Dausynk: 0.66 m
+Vindkraft på båten: g * 1.49 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:3.22
+Båtens avstand fra ankerpunkt: 27.71 meter
+Delta avstand: 0.58 meter
+
+Putter ut 15 meter med tau til daumann
+=====
+Dausynk: 0.01 m
+Vindkraft på båten: g * 6285.39 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:3.01
+Båtens avstand fra ankerpunkt: 28.28 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.10 m
+Vindkraft på båten: g * 628.51 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:3.06
+Båtens avstand fra ankerpunkt: 28.28 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 2.50 m
+Vindkraft på båten: g * 24.49 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:6.00
+Båtens avstand fra ankerpunkt: 27.78 meter
+Delta avstand: 0.50 meter
+=====
+Dausynk: 4.99 m
+Vindkraft på båten: g * 11.21 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:1500.00
+Båtens avstand fra ankerpunkt: 26.19 meter
+Delta avstand: 2.09 meter
+
+Putter ut 25 meter med tau til daumann
+=====
+Dausynk: 0.01 m
+Vindkraft på båten: g * 3495.02 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:3.02
+Båtens avstand fra ankerpunkt: 28.28 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.10 m
+Vindkraft på båten: g * 352.25 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:3.19
+Båtens avstand fra ankerpunkt: 28.28 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.83 m
+Vindkraft på båten: g * 44.43 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:6.00
+Båtens avstand fra ankerpunkt: 28.19 meter
+Delta avstand: 0.10 meter
+=====
+Dausynk: 1.66 m
+Vindkraft på båten: g * 23.05 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:500.00
+Båtens avstand fra ankerpunkt: 27.92 meter
+Delta avstand: 0.37 meter
+
+Putter ut 29 meter med tau til daumann
+=====
+Dausynk: 0.01 m
+Vindkraft på båten: g * 814.47 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:3.09
+Båtens avstand fra ankerpunkt: 28.28 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.10 m
+Vindkraft på båten: g * 84.95 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:4.29
+Båtens avstand fra ankerpunkt: 28.28 meter
+Delta avstand: 0.01 meter
+=====
+Dausynk: 0.17 m
+Vindkraft på båten: g * 52.25 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:6.00
+Båtens avstand fra ankerpunkt: 28.27 meter
+Delta avstand: 0.02 meter
+=====
+Dausynk: 0.32 m
+Vindkraft på båten: g * 28.02 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:100.00
+Båtens avstand fra ankerpunkt: 28.22 meter
+Delta avstand: 0.06 meter
+
+
+=========================
+legger ut 40 meter med ankertau
+=========================
+Putter ut 20 meter med tau til daumann
+=====
+Dausynk: 0.01 m
+Vindkraft på båten: g * 9077.30 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:4.01
+Båtens avstand fra ankerpunkt: 38.73 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.10 m
+Vindkraft på båten: g * 907.71 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:4.08
+Båtens avstand fra ankerpunkt: 38.73 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 2.50 m
+Vindkraft på båten: g * 35.90 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:8.00
+Båtens avstand fra ankerpunkt: 38.38 meter
+Delta avstand: 0.35 meter
+=====
+Dausynk: 4.99 m
+Vindkraft på båten: g * 17.36 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:2000.00
+Båtens avstand fra ankerpunkt: 37.33 meter
+Delta avstand: 1.40 meter
+
+Putter ut 39 meter med tau til daumann
+=====
+Dausynk: 0.01 m
+Vindkraft på båten: g * 888.44 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:4.17
+Båtens avstand fra ankerpunkt: 38.73 meter
+Delta avstand: 0.00 meter
+=====
+Dausynk: 0.10 m
+Vindkraft på båten: g * 91.48 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:6.67
+Båtens avstand fra ankerpunkt: 38.72 meter
+Delta avstand: 0.01 meter
+=====
+Dausynk: 0.12 m
+Vindkraft på båten: g * 73.67 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:8.00
+Båtens avstand fra ankerpunkt: 38.72 meter
+Delta avstand: 0.01 meter
+=====
+Dausynk: 0.24 m
+Vindkraft på båten: g * 39.22 kg
+Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:100.00
+Båtens avstand fra ankerpunkt: 38.70 meter
+Delta avstand: 0.03 meter
+
