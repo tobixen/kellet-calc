@@ -8,6 +8,13 @@ I didn't find any formulas for the effect of a kellet easily available on the in
 
 This project was born out from a Norwegian boating forum, so as for now the input variables to the function is in Norwegian.  I will maybe and eventually remake it or make an english wrapper function, as well as add some of the information from the Norwegian forum into this README.  Here is some background information:
 
-* https://baatplassen.no/i/topic/163530-p%C3%A5-svai-med-blytau/?do=findComment&comment-2315646
+* https://baatplassen.no/i/topic/163530-p%C3%A5-svai-med-blytau/?do=findComment&comment=2315646
 * https://baatplassen.no/i/topic/163530-p%C3%A5-svai-med-blytau/?do=findComment&comment=2316268
 * https://baatplassen.no/i/topic/163530-p%C3%A5-svai-med-blytau/?do=findComment&comment=2316832
+
+## Assumptions:
+
+* Static state, no acceleration involved, steady wind.  This is hardly true, the wind changes direction all the time and comes in gusts, the boat is likely to be shaped in such a way that it will swing forth and back rather than staying steady against the wind.  The kellet will move up and down, and it will typically move up while the forces are greatest - hence, regarding the ropes angle of attack at the anchor, the kellet is likely to perform worse than what those calculations shows.
+* Rope has the same weight as water (and the part that is above water should have the same weight as air).  That's not true, but an ordinary anchoring rope without a lead core is typically being close to the weight of water.  It's usually very visible that the rope has some weight when the wind is still, but the effect of the rope weight is insignificant when there is signifiant wind.
+* Zero distance from the water surface to the connection point at the boat.  This is obviously not true, but if including the distance in the depth parameter then things should work out pretty well.
+* Totally inelastic ropes.  This is obviously not true, but it shouldn't make any significant impact anyway - especially not when considering that everything is "steady state".

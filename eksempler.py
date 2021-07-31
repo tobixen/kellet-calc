@@ -1,9 +1,9 @@
 from kellet_calc import daumann_kalk
 
-taulengde=30 # meter
+taulengde=20 # meter
 dybde=10 # meter
 daumannsvekt=10 # kg
-for daumannlengde in (1, 5, 10, 15, 20, 25, 29):
+for daumannlengde in (10, 19):
     print()
     print("Putter ut %i meter med tau til daumann" % daumannlengde)
     ## hvor dypt vil daumannen befinne seg dersom tauet er helt stramt?
