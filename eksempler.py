@@ -3,6 +3,8 @@ from math import sqrt
 
 dybde=10 # meter
 daumannsvekt=10 # kg
+mb = 13000 # kg
+g = 9.819 # m/s**2 - gravitational constant in Oslo
 
 for taulengde, daumannslengder in (
         (20, (10,19)),
@@ -30,5 +32,6 @@ for taulengde, daumannslengder in (
             print("Vinkel på ankerkraft (y:l - bør være mindre enn 1:3): 1:%.2f" % (results['l1']/results['l1y']))
             print("Båtens avstand fra ankerpunkt: %.2f meter" % avstand)
             print("Delta avstand: %.2f meter" % (max_avstand-avstand))
+            print("Rykkfart: %.2f knop" % (sqrt(2*daumannsvekt*g*dausynk/mb)*1.94384449))
         print()
         
